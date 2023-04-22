@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - Fun fact: I've spent about six months at the Geographic South Pole over ten trips.
 
 [![Eigenhombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=eigenhombre)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eigenhombre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
