@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I’m currently working on [personal projects](https://github.com/eigenhombre), my [painting/drawing practice](http://johnj.com/art/newview/na1/), and [software development](http://npxdesigns.com) for the [IceCube Neutrino Observatory](https://icecube.wisc.edu/).  See the Now Page on my Website for more info.
+- I’m currently trying to improve my C and Go programming.
+- How to reach me: [my Website](http://johnj.com).
+- Fun fact: I've spent about six months at the Geographic South Pole over ten trips.
+
