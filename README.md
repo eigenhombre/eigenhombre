@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **eigenhombre/eigenhombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - How to reach me: [my Website](http://johnj.com).
 - Fun fact: I've spent about six months at the Geographic South Pole over ten trips.
 
+[![Eigenhombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=eigenhombre)](https://github.com/anuraghazra/github-readme-stats)
